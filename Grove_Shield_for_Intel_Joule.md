@@ -37,6 +37,24 @@ By simply plugging it on your Joule board, it will own 8 solid and easy-to-use G
 
 - Size: 84.9*51.7mm
 
+## Hardware Overview
+
+![](https://github.com/SeeedDocument/Grove_Shield_for_Intel_Joule/blob/master/img/new.png?raw=true)
+
+- Grove Analog Port: ①/②
+
+- Grove Digital Port: ③/④
+
+- Grove UART Port: ⑤
+
+- Grove I2C Port: ⑥/⑦/⑧
+
+- [Breakout 1 / J12 of the Intel Joule: ⑨](http://www.intel.com/content/www/us/en/support/boards-and-kits/000022494.html)
+
+- [Breakout 2 / J13 of the Intel Joule: ⑩](http://www.intel.com/content/www/us/en/support/boards-and-kits/000022494.html)
+
+- 3.3V & 5V Power Switch: ⑪
+
 ## Note
 
 Please pay attention to the orientation when you are plugging the shield.
