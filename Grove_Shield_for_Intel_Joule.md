@@ -1,14 +1,13 @@
 ---
 title: Grove Shield for Intel Joule
-
-bzurl: https://www.seeedstudio.com/Grove-Shield-for-Intel-Joule-p-2782.html
-
-
+category: Others
+bzurl: https://www.seeedstudio.com/Grove-Button-p-766.html
+oldwikiname: 
+prodimagename: 3.jpg
+surveyurl: https://www.research.net/r/B6JM638
 sku: 103030095
-
 ---
 
-## Introduction
 
 ![](https://github.com/SeeedDocument/Grove_Shield_for_Intel_Joule/blob/master/img/1.jpg?raw=true)
 
@@ -17,7 +16,7 @@ At the 2016 Intel Developer Forum, Intel announced the availability of the Joule
 By simply plugging it on your Joule board, it will own 8 solid and easy-to-use Grove connectors which includes interfaces like I2C, UART, digital I/Os and analog inputs right away. In addition to rich Grove connectors, the shield also keeps 2x20 pin headers in case you want more GPIOs for the project. An integrated switch on the board allows you to select the working voltage at either 5V or 3.3V.
 
 
-[![](https://github.com/SeeedDocument/BeagleBone_Green_Wireless/blob/master/images/get_one_now.png?raw=true)](https://www.seeedstudio.com/Grove-Shield-for-Intel-Joule-p-2782.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/get_one_now.png)](https://www.seeedstudio.com/Grove-Shield-for-Intel-Joule-p-2782.html)
 
 ## Features
 
@@ -55,12 +54,10 @@ By simply plugging it on your Joule board, it will own 8 solid and easy-to-use G
 
 - 3.3V & 5V Power Switch: ⑪
 
-## Note
-
-Please pay attention to the orientation when you are plugging the shield.
-
-Libmraa does not support the UART pins of Joule for the time being. So the UART interface is not available.
+!!!Note
+    * Please pay attention to the orientation when you are plugging the shield.
+    * Libmraa does not support the UART pins of Joule for the time being. So the UART interface is not available.
 
 ## Resources
 
-[Grove Shield for Intel Joule Schematic files](https://github.com/SeeedDocument/Grove_Shield_for_Intel_Joule/tree/master/res)
+* [Grove Shield for Intel Joule Schematic files](https://github.com/SeeedDocument/Grove_Shield_for_Intel_Joule/tree/master/res)
